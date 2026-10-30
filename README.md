@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Lilian
 - 👀 I’m interested in digital humanities
-- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on legislative studies in political science
 - 📫 How to reach me oemaildalilian@gmail.com
 - 😄 Pronouns: she/her
